@@ -2,7 +2,7 @@ name: Flutter CI - Build & Release
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 permissions:
   contents: write
